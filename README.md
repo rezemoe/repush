@@ -14,6 +14,8 @@ Repush (a play on *retouche*) is a tool that removes your name out of all your c
 
 GitHub caches a lot of stuff and it takes time (according to the internet, 24 hours) to update. Please take this into a consideration. I bear no responsibility for your action.
 
+Also, please keep in mind there are **other ways** to get older version of the repository and review further. It requires knowledge, technical skill and time, but it is possible.
+
 ## License
 
 This tool is licensed under MIT License.
